@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Felipe+Ferreira+Lima;I'm+19+years+old;I'm+Brazilian+💛💚;Welcome!+👻)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ferreira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=3CB371&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Ferreira github stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeFerreiraffl&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0d1117" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeFerreiraffl&&theme=dark" alt="Felipe Ferreira" />
 </div><br>
