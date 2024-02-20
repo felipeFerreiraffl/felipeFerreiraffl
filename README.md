@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=008000&reversal=true&fontSize=20&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3CB371&reversal=true&fontSize=20&textBg=false"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Felipe+Ferreira+Lima;I'm+19+years+old;I'm+Brazilian+💛💚;Welcome!+👻)](https://git.io/typing-svg)
 
@@ -23,4 +23,4 @@
  
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=footer"/>
