@@ -8,7 +8,10 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipeFerreiraffl&theme=vue-dark&border_radius=5&card_width=500&background=0D1117&fire=EB5454&stroke=228B22&currStreakNum=90EE90&sideNums=90EE90&ring=228B22&currStreakLabel=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" /></a>
 </div><br>
 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" width="350" alt="imagem" align="right">
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="imagem" align="right">
 
 <div align="center">
 <h3 align="center">Languages and Tools:</h3>
