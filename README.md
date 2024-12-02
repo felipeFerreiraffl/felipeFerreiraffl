@@ -16,7 +16,7 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeFerreiraffl&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0c0c0c&locale=pt-br" />
   <br>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipeFerreiraffl&theme=vue-dark&hide_border=true&card_width=750&fire=EB5454&stroke=228B22&currStreakNum=90EE90&sideNums=90EE90&ring=228B22&currStreakLabel=C9D1D9&sideLabels=C9D1D9&background=3CB37100&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipeFerreiraffl&theme=vue-dark&hide_border=true&card_width=750&fire=EB5454&stroke=228B22&currStreakNum=90EE90&sideNums=90EE90&ring=228B22&currStreakLabel=C9D1D9&sideLabels=C9D1D9&background=3CB371&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div><br>
 
 <br>
