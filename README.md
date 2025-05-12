@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Silkscreen&color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Felipe+Ferreira+Lima;Sou+estudante+de+programação;Sou+brasileiro;Bem+vindos+👓)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="imagem" align="center">
-
 </div>
 
 <br>
