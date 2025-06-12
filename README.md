@@ -18,7 +18,6 @@
 </div><br>
 
 <br>
-<br>
 
 <div align="center">
 <h3 align="center">Linguagens e ferramentas</h3>
@@ -35,6 +34,10 @@
 
 <br>
 <br>
+
+<div align="center">
+<img width="70%" src="./profile-3d-contrib/profile-night-green.svg" border="1px" />
+</div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
 </div>
