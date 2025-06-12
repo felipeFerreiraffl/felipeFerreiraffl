@@ -35,11 +35,6 @@
 
 <br>
 <br>
-
-<div align="center">
-<img src="https://media.tenor.com/vgH7rtApnPUAAAAM/jinx-flipzflops.gif" width="300" align="center" style="border-radius: 50%" />
-<h2 align="center">Fim!</h2>
-</div>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
 </div>
