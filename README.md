@@ -1,43 +1,49 @@
 <div align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=228B22&reversal=true&fontSize=20&textBg=false"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
 
 <div align="center">
+<h1>🔵 Felipe Ferreira Lima 🔵</h1>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Silkscreen&color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Felipe+Ferreira+Lima;Sou+estudante+de+programação;Sou+brasileiro;Bem+vindos+👓)](https://git.io/typing-svg)
+****
+
+## 📱 Tecnologias 📱
+
+<div align="left">
+
+#### 🎨 Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+
+#### 💾 Back-end
+
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Spring boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+#### 🛠️ Ferramentas
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)   
 
 </div>
 
-<br>
+****
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=90EE90&icon_color=3CB371&text_color=c9d1d9&bg_color=0D1117&locale=pt-br" alt="Felipe Ferreira github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeFerreiraffl&layout=compact&hide_border=true&title_color=90EE90&text_color=90EE90&bg_color=0D1117&locale=pt-br" />
-  <br>
-  <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=felipeFerreiraffl&theme=vue-dark&hide_border=true&card_width=500&background=0D1117&fire=EB5454&stroke=228B22&currStreakNum=90EE90&sideNums=90EE90&ring=228B22&currStreakLabel=C9D1D9&sideLabels=C9D1D9&background=45%2C0D1117%2C0B0B0B" alt="GitHub Streak" /></a>
-</div><br>
+## 📊 Estatísticas 📊
 
-<br>
+<img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=false&title_color=8E70E9&icon_color=3CB371&text_color=DED3FF&bg_color=000008&locale=pt-br" alt="Felipe Ferreira Github Stats" />
 
-<div align="center">
-<h3 align="center">Linguagens e ferramentas</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://eclipseide.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="eclipse-ide" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-</div>
+<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeFerreiraffl&layout=compact&&title_color=8E70E9&text_color=DED3FF&bg_color=000008&locale=pt-br" />
 
-<div>
-<h3 align="center">Contatos</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/felipe-ferreira-959bb8271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/felps-ffl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-</p>
-</div>
+<img width="92%" src="./profile-3d-contrib/profile-night-green.svg" border="1px" />
 
-<br>
-<br>
+****
 
-<div align="center">
-<img width="70%" src="./profile-3d-contrib/profile-night-green.svg" border="1px" />
-</div>
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
+## 📞 Contatos 📞
+
+
+![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Felipe_Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
+
 </div>
