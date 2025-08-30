@@ -4,6 +4,7 @@
 <h1>🔵 Felipe Ferreira Lima</h1>
 
 ### 🔗 Link para o portfólio: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
+
 </div>
 
 ## 📱 Tecnologias
@@ -27,8 +28,7 @@
 ## 📊 Estatísticas
 
 <img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=8E70E9&icon_color=4A19DC&text_color=DED3FF&bg_color=000008&locale=pt-br" alt="Felipe Ferreira Github Stats" />
-<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?
-&hide_border=true&username=felipeFerreiraffl&layout=compact&&title_color=8E70E9&text_color=DED3FF&bg_color=000008&locale=pt-br" />
+<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?&hide_border=true&username=felipeFerreiraffl&layout=compact&&title_color=8E70E9&text_color=DED3FF&bg_color=000008&locale=pt-br" />
 
 <img width="92%" src="./profile-3d-contrib/profile-night-green.svg" />
 
