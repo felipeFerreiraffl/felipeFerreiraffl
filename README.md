@@ -2,6 +2,8 @@
 
 <div align="center">
 <h1>🔵 Felipe Ferreira Lima</h1>
+
+### 🔗 Link para o portfólio: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
 </div>
 
 ## 📱 Tecnologias
@@ -33,7 +35,5 @@
 ## 📞 Contatos
 
 ![Email Pessoal](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Email Profissional](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Felipe_Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
-
-### 🔗 Link para o repositório: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
