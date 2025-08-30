@@ -3,11 +3,11 @@
 <div align="center">
 <h1>🔵 Felipe Ferreira Lima</h1>
 
-### 🔗 Link para o portfólio: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
+### 🔗 Portfolio link: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
 
 </div>
 
-## 📱 Tecnologias
+## 📱 Technologies
 
 <div align="left">
 
@@ -19,21 +19,21 @@
 
 ![Node](https://img.shields.io/badge/Node%20js-000008?style=for-the-badge&logo=nodedotjs&logoColor=3c873a) ![MongoDB](https://img.shields.io/badge/MongoDB-000008?style=for-the-badge&logo=mongodb&logoColor=00ED64) ![MySQL](https://img.shields.io/badge/MySQL-000008?style=for-the-badge&logo=mysql&logoColor=00758F) ![Spring boot](https://img.shields.io/badge/Spring_Boot-000008?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 
 ![Vercel](https://img.shields.io/badge/Vercel-000008?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000008?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
-## 📊 Estatísticas
+## 📊 Stats
 
-<img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=8E70E9&icon_color=4A19DC&text_color=DED3FF&bg_color=000008&locale=pt-br" alt="Felipe Ferreira Github Stats" />
-<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?&hide_border=true&username=felipeFerreiraffl&layout=compact&&title_color=8E70E9&text_color=DED3FF&bg_color=000008&locale=pt-br" />
+<img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=8E70E9&icon_color=4A19DC&text_color=DED3FF&bg_color=000008&locale=en" alt="Felipe Ferreira Github Stats" />
+<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?&hide_border=true&username=felipeFerreiraffl&layout=compact&&title_color=8E70E9&text_color=DED3FF&bg_color=000008&locale=en" />
 
 <img width="92%" src="./profile-3d-contrib/profile-night-green.svg" />
 
 ## 📞 Contatos
 
-![Email Pessoal](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Email Profissional](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Felipe_Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
+![Personal email](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Professional email](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Felipe_Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
