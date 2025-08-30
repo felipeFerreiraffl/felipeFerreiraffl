@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
 
 <div align="center">
-<h1>🔵 Felipe Ferreira Lima</h1>
+<h1>🧑‍💻 Felipe Ferreira Lima</h1>
 
 ### 🔗 Portfolio link: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
 
