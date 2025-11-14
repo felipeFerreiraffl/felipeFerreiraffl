@@ -3,7 +3,7 @@
 <div align="center">
 <h1>🧑‍💻 Felipe Ferreira Lima</h1>
 
-<h4>Desenvolvedor Full-Stack construindo sonhos</h4>
+<h4>Desenvolvedor Full-Stack building dreams</h4>
 
 <p>Graduated in Systems Development with skills in Full-Stack technologies like HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MySQL, MongoDB, and others, such as desgin with Figma and REST API integration.</p>
 
