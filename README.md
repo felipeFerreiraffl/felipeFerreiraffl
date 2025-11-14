@@ -1,7 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5F32E3&reversal=true&fontSize=20&textBg=false"/>
 
 <div align="center">
 <h1>🧑‍💻 Felipe Ferreira Lima</h1>
+
+<h4>Desenvolvedor Full-Stack construindo sonhos</h4>
+
+<p>Graduated in Systems Development with skills in Full-Stack technologies like HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MySQL, MongoDB, and others, such as desgin with Figma and REST API integration.</p>
 
 ### 🔗 Portfolio link: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
 
@@ -17,11 +21,15 @@
 
 ### 💾 Back-end
 
-![Node](https://img.shields.io/badge/Node%20js-000008?style=for-the-badge&logo=nodedotjs&logoColor=3c873a) ![MongoDB](https://img.shields.io/badge/MongoDB-000008?style=for-the-badge&logo=mongodb&logoColor=00ED64) ![MySQL](https://img.shields.io/badge/MySQL-000008?style=for-the-badge&logo=mysql&logoColor=00758F) ![Spring boot](https://img.shields.io/badge/Spring_Boot-000008?style=for-the-badge&logo=spring-boot&logoColor=6DB33F)
+![Node](https://img.shields.io/badge/Node%20js-000008?style=for-the-badge&logo=nodedotjs&logoColor=3c873a) ![MongoDB](https://img.shields.io/badge/MongoDB-000008?style=for-the-badge&logo=mongodb&logoColor=00ED64) ![MySQL](https://img.shields.io/badge/MySQL-000008?style=for-the-badge&logo=mysql&logoColor=00758F) ![Spring boot](https://img.shields.io/badge/Spring_Boot-000008?style=for-the-badge&logo=spring-boot&logoColor=6DB33F) ![DBeaver](https://img.shields.io/badge/dbeaver-000008?style=for-the-badge&logo=dbeaver&logoColor=382923) ![Express](https://img.shields.io/badge/Express%20js-000008?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+### 🛠️ Aditional techs
+
+![Vercel](https://img.shields.io/badge/Vercel-000008?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000008?style=for-the-badge&logo=render&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000008?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
 ### 🛠️ Tools
 
-![Vercel](https://img.shields.io/badge/Vercel-000008?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000008?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000008?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 
 </div>
 
@@ -34,6 +42,6 @@
 
 ## 📞 Contatos
 
-![Personal email](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Professional email](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Felipe_Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
+![Personal email](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Professional email](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=4A19DC&reversal=true&fontSize=20&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5F32E3&reversal=true&fontSize=20&textBg=false"/>
