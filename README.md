@@ -1,19 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5F32E3&reversal=true&fontSize=20&textBg=false"/>
-
 <div align="center">
-<h1>🧑‍💻 Felipe Ferreira Lima</h1>
 
-<h4>Full-Stack Developer building dreams</h4>
+![Header](./src/imgs/github-header-felipe.png)
 
 <p>Graduated in Systems Development with skills in Full-Stack technologies like HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MySQL, MongoDB, and others, such as desgin with Figma and REST API integration.</p>
 
 ### 🔗 Portfolio link: [Portfólio](https://portfolio-one-nu-99.vercel.app/)
 
-</div>
 
 ## 📱 Technologies
 
-<div align="left">
 
 ### 🎨 Front-end
 
@@ -31,17 +26,11 @@
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000008?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 
-</div>
+<img width="92%" src="./profile-3d-contrib/profile-night-green.svg" alt="Github" />
 
-## 📊 Stats
-
-<img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipeFerreiraffl&show_icons=true&count_private=true&hide_border=true&title_color=8E70E9&icon_color=4A19DC&text_color=DED3FF&bg_color=000008&locale=en" alt="Felipe Ferreira Github Stats" />
-<img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?&hide_border=true&username=felipeFerreiraffl&layout=compact&&title_color=8E70E9&text_color=DED3FF&bg_color=000008&locale=en" />
-
-<img width="92%" src="./profile-3d-contrib/profile-night-green.svg" />
 
 ## 📞 Contatos
 
 ![Personal email](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Professional email](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5F32E3&reversal=true&fontSize=20&textBg=false"/>
+</div>
