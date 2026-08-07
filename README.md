@@ -4,7 +4,7 @@
 
 Graduated in Systems Development with skills in Full-Stack technologies like HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MySQL, MongoDB, and others, such as desgin with Figma and REST API integration
 
-### 🔗 Portfolio link: [Portfólio]([https://felipe-ferreira.vercel.app)
+### 🔗 Portfolio link: [Portfólio](https://felipe-ferreira.vercel.app)
 
 ---
 
