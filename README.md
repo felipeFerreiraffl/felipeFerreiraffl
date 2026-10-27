@@ -14,8 +14,8 @@ Just a junior `Front-end Developer`. Nice to meet you.
 
 ![Figma](https://img.shields.io/badge/Figma-0E0B18?style=for-the-badge&logo=figma&logoColor=FF7669) ![Penpot](https://img.shields.io/badge/Penpot-0E0B18?style=for-the-badge&logo=penpot&logoColor=7FFFF8) ![Claude Code](https://img.shields.io/badge/Claude_Code-0E0B18?style=for-the-badge&logo=claude&logoColor=D87756)
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/output/bomberman-contribution-graph.svg">
 </picture>
