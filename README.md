@@ -1,35 +1,21 @@
-<div align="center">
-
 # Felipe Ferreira Lima
 
-Graduated in Systems Development with skills in Full-Stack technologies like HTML, CSS, JavaScript, TypeScript, Node.js, React.js, MySQL, MongoDB, and others, such as desgin with Figma and REST API integration
+Just a junior `Front-end Developer`. Nice to meet you.
 
-### 🔗 Portfolio link: [Portfólio](https://felipe-ferreira.vercel.app)
+## `Front-end`
 
----
+![HTML](https://img.shields.io/badge/HTML5-0E0B18?style=for-the-badge&logo=html5&logoColor=E44D25) ![CSS](https://img.shields.io/badge/CSS3-0E0B18?style=for-the-badge&logo=css&logoColor=663399) ![JavaScript](https://img.shields.io/badge/JavaScript-0E0B18?style=for-the-badge&logo=javascript&logoColor=F4DE19) ![TypeScript](https://img.shields.io/badge/TypeScript-0E0B18?style=for-the-badge&logo=typescript&logoColor=3179C7) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0E0B18?style=for-the-badge&logo=tailwind-css&logoColor=07B6D3) ![React](https://img.shields.io/badge/React-0E0B18?style=for-the-badge&logo=react&logoColor=60DAFA) ![Vite](https://img.shields.io/badge/Vite-0E0B18?style=for-the-badge&logo=vite&logoColor=BA39FB) ![Next.js](https://img.shields.io/badge/next%20js-0E0B18?style=for-the-badge&logo=nextdotjs&logoColor=E0E0E0)
 
-## 📱 Technologies
+## `Back-end`
 
-### 🎨 Front-end
+![Node.js](https://img.shields.io/badge/Node%20js-0E0B18?style=for-the-badge&logo=nodedotjs&logoColor=83CD29) ![Express.js](https://img.shields.io/badge/Express%20js-0E0B18?style=for-the-badge&logo=express&logoColor=828282) ![Java](https://img.shields.io/badge/Java-0E0B18?style=for-the-badge&logo=openjdk&logoColor=E87000) ![MySQL](https://img.shields.io/badge/MySQL-0E0B18?style=for-the-badge&logo=mysql&logoColor=00758F)
 
-![HTML5](https://img.shields.io/badge/HTML5-000008?style=for-the-badge&logo=html5&logoColor=F54927) ![CSS](https://img.shields.io/badge/CSS3-000008?style=for-the-badge&logo=css&logoColor=663399) ![JavaScript](https://img.shields.io/badge/JavaScript-000008?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-000008?style=for-the-badge&logo=typescript&logoColor=007ACC) ![React](https://img.shields.io/badge/React-000008?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000008?style=for-the-badge&logo=next.js&logoColor=FFFFF) ![Vite](https://img.shields.io/badge/Vite-000008?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000008?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+## `Tools`
 
-### 💾 Back-end
+![Figma](https://img.shields.io/badge/Figma-0E0B18?style=for-the-badge&logo=figma&logoColor=FF7669) ![Penpot](https://img.shields.io/badge/Penpot-0E0B18?style=for-the-badge&logo=penpot&logoColor=7FFFF8) ![Claude Code](https://img.shields.io/badge/Claude_Code-0E0B18?style=for-the-badge&logo=claude&logoColor=D87756)
 
-![Node](https://img.shields.io/badge/Node%20js-000008?style=for-the-badge&logo=nodedotjs&logoColor=3c873a) ![MongoDB](https://img.shields.io/badge/MongoDB-000008?style=for-the-badge&logo=mongodb&logoColor=00ED64) ![MySQL](https://img.shields.io/badge/MySQL-000008?style=for-the-badge&logo=mysql&logoColor=00758F) ![Spring boot](https://img.shields.io/badge/Spring_Boot-000008?style=for-the-badge&logo=spring-boot&logoColor=6DB33F) ![Express](https://img.shields.io/badge/Express%20js-000008?style=for-the-badge&logo=express&logoColor=FFFFFF)
-
-### 🛠️ Aditional techs
-
-![Vercel](https://img.shields.io/badge/Vercel-000008?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000008?style=for-the-badge&logo=render&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-000008?style=for-the-badge&logo=figma&logoColor=f24e1e)
-
-### 🛠️ Tools
-
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000008?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
-
-<img width="92%" src="./profile-3d-contrib/profile-night-green.svg" alt="Github" />
-
-## 📞 Contatos
-
-![Personal email](https://img.shields.io/badge/felipado2x0-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Professional email](https://img.shields.io/badge/felipe.ferr.lima04-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ferreira-959bb8271) [![Instagram](https://img.shields.io/badge/felipe__ffl7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_ffl7)
-
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeFerreiraffl/felipeFerreiraffl/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
